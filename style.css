@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+}
+
+h1 {
+    background-color: blanchedalmond;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+li {
+    padding: 5px;
+    text-align: left;
+}
+
+li button {
+    margin-left: 5px;
+}
+
+.line {
+    text-decoration: line-through;
+}
